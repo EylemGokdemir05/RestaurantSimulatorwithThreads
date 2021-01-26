@@ -1,6 +1,4 @@
-package org.kodluyoruz;
-
-import java.util.concurrent.CyclicBarrier;
+package org.eylem;
 
 public class Waiter extends Thread{
 

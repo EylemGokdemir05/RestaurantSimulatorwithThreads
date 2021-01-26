@@ -1,4 +1,4 @@
-package org.kodluyoruz;
+package org.eylem;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
